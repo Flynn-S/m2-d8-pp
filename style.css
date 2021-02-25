@@ -1,3 +1,4 @@
+
 .exercise-heading {
     text-align: center;
 }
@@ -22,3 +23,22 @@ h3 {
 .meta-tag {
     color:rgb(120, 148, 240)
 }
+
+.search-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgba(231, 231, 231, 0.507);
+    color: black;
+    font-weight:normal;
+    font-size: smaller;
+    border: 1px solid black;
+    border-radius: 0.3rem;
+}
+
+.search-heading {
+    padding-top: 10px;
+}
+
+
+
